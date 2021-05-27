@@ -18,7 +18,7 @@ Dit is de Github pagina van NLmac, de Nederlandse patcher om Big Sur te installe
 Het programma 'NLdisk' is een grafische interface om een opstartschijf te selecteren, het programma werkt op alle Apple-computers met een recente versie van macOS, dus niet alleen op Mac Pro's.
 <br>
 <br>
-<h3>Wat wit er in de patcher?</h3>
+<h3>Wat hoort er bij de patcher?</h3>
 <br>
 In de patcher vindt je het hoofdscript 'NLmac.sh' om een USB-schijf te maken enz. ook vindt je hier een Pre-install en een Post-install.
 In NLmac.sh staat verder beschreven hoe het in zijn werk gaat, maar hieronder een korte handleiding.
