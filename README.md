@@ -5,7 +5,7 @@ Helaas wordt dit programma per 1 juni 2021 stopgezet. Dit doe ik om ruimte te ma
 <br>
 <br>
 <br>
-# NLmac
+<h1>NLmac</h1>
 <br>
 Dit is de Github pagina van NLmac, de Nederlandse patcher om Big Sur te installeren op een Mac Pro 1.1 t/m 5.1, het project is grotendeels overgenomen van BigMac van StarPlayrX, dus verwacht niet al te veel support van mij. <s>Uiteraard kan ik je wel met een aantal dingen helpen.</s> Omdat dit project stilgezet is kan ik je helaas niet helpen bij problemen.
 <br>
